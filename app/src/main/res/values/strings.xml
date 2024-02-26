@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">form1</string>
+    <string name="this_is_the_arrtement_licence_we_have_whenever_you_want_use_this_appication_u_you_can_use">this is the arrtement licence we have whenever you want use this appication u=you can use</string>
+    <string name="pick_img">pick img</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="register">Register</string>
+
+    <array name="countries">
+        <item>India</item>
+        <item>Austeliya</item>
+        <item>uk</item>
+        <item>Jerman</item>
+        <item>finland</item>
+        <item>Itali</item>
+
+    </array>
+</resources>
